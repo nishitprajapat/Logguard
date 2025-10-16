@@ -60,7 +60,7 @@ const Navbar = () => {
         
         {/* GitHub Button (Right Side - Now a styled button) */}
         <a 
-          href="https://github.com/nishitprajapat" // TODO: Update this link to your actual GitHub repo
+          href="https://github.com/nishitprajapat/Logguard/" // TODO: Update this link to your actual GitHub repo
           target="_blank" 
           rel="noopener noreferrer"
           title="View on GitHub"
@@ -79,3 +79,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
